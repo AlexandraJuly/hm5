@@ -1,0 +1,56 @@
+header {
+    color: rgb(181, 48, 48);
+}
+
+li#all {
+    color: rgb(216, 141, 41);
+}
+
+.divteg {
+    color: rgb(241, 208, 57);
+}
+
+.id.teg {
+    color: rgb(37, 170, 37);
+}
+li i {
+    color: rgb(65, 103, 198);
+}
+
+#val {
+    color: rgb(39, 39, 133);
+}
+
+ul>li>b {
+    color: rgb(116, 64, 165);
+}
+li[type] {
+    color: deeppink;
+}
+
+a[target="blank"] {
+    color: lime;
+}
+
+.a[href^="#"] {
+    color: rgb(97, 98, 97);
+}
+[href*="#"] {
+    color: rgb(66, 201, 218);
+}
+
+body {
+    text-align: center;
+    background-color: rgb(228, 228, 255);
+    width: 50%;
+}
+
+ul{
+    text-align: left;
+}
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
