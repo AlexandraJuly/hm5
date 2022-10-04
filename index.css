@@ -24,9 +24,6 @@ li i {
 ul>li>b {
     color: rgb(116, 64, 165);
 }
-li[type] {
-    color: deeppink;
-}
 
 a[target="blank"] {
     color: lime;
